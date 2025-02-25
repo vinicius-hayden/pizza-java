@@ -1,3 +1,15 @@
+/**********************************************
+ Workshop #3
+ Course: - Semester 5
+ Last Name: Souza da Silva
+ First Name: Vinicius
+ ID: 135067221
+ Section: NDD
+ This assignment represents my own work in accordance with Seneca Academic Policy.
+ VHSS
+ Date:24/02/2025
+ **********************************************/
+
 package com.example.pizzaworkshop;
 
 import javafx.application.Application;
